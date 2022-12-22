@@ -25,11 +25,11 @@ public class Main {
         }
     }
     static void input(){
-            myList.add(1);
-            myList.add(3);
-            myList.add(7);
-            myList.add(10);
-            myList.add(15);
+        myList.add(1);
+        myList.add(3);
+        myList.add(7);
+        myList.add(10);
+        myList.add(15);
 
 
     }
